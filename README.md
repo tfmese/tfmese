@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @tfmese
-- 🌱 I’m currently learning Mobile Apps Development
+- I’m @tfmese
 - 📫 How to reach me?
 - IG:https://www.instagram.com/tfmese/
 - eMail: tfmesebusiness@gmail.com
