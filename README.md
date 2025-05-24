@@ -1,7 +1,7 @@
 - I’m @tfmese
 - 📫 How to reach me?
 - IG:https://www.instagram.com/tfmese/
-- eMail: tfmesebusiness@gmail.com
+- email: tfmesebusiness@gmail.com
 
 <!---
 tfmese/tfmese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
