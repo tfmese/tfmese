@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1 style="font-size: 50px; font-weight: bold;">tfmese</h1>
-  <h3 style="color: #8b949e;">Mobile & Desktop Developer</h3>
+  <h3 style="color: #8b949e;">Information Systems Engineer</h3>
 
   <br/>
 
